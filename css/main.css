@@ -10,8 +10,13 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: Noto Sans, sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+img {
+
 }
