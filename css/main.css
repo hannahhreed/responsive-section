@@ -17,6 +17,11 @@ html {
   box-sizing: inherit;
 }
 
-img {
+header {
+  background-color: #e5c30a;
+}
 
+.img-flex {
+  width: 50%;
+  display: block;
 }
