@@ -64,8 +64,8 @@ p {
     width: 20%;
   }
 
-  h1 {
-
+  .wrapper {
+    align-items: center;
   }
 
 }
