@@ -22,12 +22,15 @@ body {
 }
 
 .wrapper {
-  background-color: #e5c30a;
   display: flex;
   flex-wrap: wrap;
   padding: 1.3rem;
   justify-content: space-between;
   max-width: 45em;
+}
+
+section {
+  background-color: #e5c30a;
 }
 
 section h2 {
