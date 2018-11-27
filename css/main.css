@@ -25,6 +25,7 @@ header {
   background-color: #e5c30a;
   display: flex;
   flex-wrap: wrap;
+  padding: 1rem;
 }
 
 h1 {
