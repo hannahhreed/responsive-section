@@ -27,6 +27,7 @@ body {
   flex-wrap: wrap;
   padding: 1.3rem;
   justify-content: space-between;
+  max-width: 45em;
 }
 
 section h2 {
@@ -102,7 +103,7 @@ section p {
   }
 
   .wrapper {
-    max-width: 45em;
+    width: 45em;
   }
 
 }
