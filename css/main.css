@@ -10,7 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  font-family: Noto Sans, sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -23,7 +23,7 @@ header {
 
 .img-flex {
   width: 50%;
-  display: block;
+  display: flex;
 }
 
 @media only screen and (min-width: 25em) {
@@ -41,7 +41,7 @@ header {
     line-height: 1.4;
   }
 
-  .cards{
+  .cards {
     display: inline-block;
   }
 
