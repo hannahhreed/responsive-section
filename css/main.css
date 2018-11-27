@@ -27,6 +27,8 @@ body {
   flex-wrap: wrap;
   padding: 1.3rem;
   justify-content: space-between;
+  margin: 1.4rem;
+  max-width: 45em;
 }
 
 h2 {
@@ -101,12 +103,8 @@ p {
     line-height: 1.5;
   }
 
-  .section-icon {
-    width: 25%;
-  }
-
-  .section-letter {
-    width: 25%;
+  .wrapper {
+    width: 45em;
   }
 
 }
@@ -115,7 +113,6 @@ p {
 
   html {
     font-size: 130%;
-    line-height: 1.5;
   }
 
 }
