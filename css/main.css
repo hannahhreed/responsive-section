@@ -19,6 +19,7 @@ html {
 
 header {
   background-color: #e5c30a;
+  display: flex;
 }
 
 .img-flex {
