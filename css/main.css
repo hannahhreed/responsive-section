@@ -101,12 +101,21 @@ p {
     line-height: 1.5;
   }
 
+  .section-icon {
+    width: 25%;
+  }
+
+  .section-letter {
+    width: 25%;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
 
   html {
     font-size: 130%;
+    line-height: 1.5;
   }
 
 }
