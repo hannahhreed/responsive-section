@@ -108,6 +108,7 @@ section p {
 
   .wrapper {
     width: 45em;
+    margin: 0 auto;
   }
 
 }
