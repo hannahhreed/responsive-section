@@ -21,7 +21,7 @@ html {
   margin: 0;
 }
 
-header {
+.wrapper {
   background-color: #e5c30a;
   display: flex;
   flex-wrap: wrap;
